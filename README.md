@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm currently on a front office engineering team at Citadel. Before that I spent time at Bloomberg and Capital One. 
+
 <!--
 **sejr/sejr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
