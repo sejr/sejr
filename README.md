@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-I'm currently an engineer at Citadel, focusing on building highly performant distributed systems.
+I'm currently an engineer at Citadel, focusing on distributed systems.
